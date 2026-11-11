@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "figcraft": {
+      "type": "stdio",
+      "command": "C:\\Program Files\\ArtCraft\\FigCraft\\figcraft-cli.exe",
+      "args": [
+        "mcp",
+        "--attach",
+        "127.0.0.1:8765"
+      ]
+    }
+  }
+}
